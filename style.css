@@ -1,0 +1,27 @@
+.tittle {
+    text-align: center;
+}
+
+.tittle:hover {
+    color: blue;
+}
+
+.lectureWrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.lectureimg {
+    width: 100%;
+    height: 120px;
+    margin: 10px;
+    background-color: gray;
+}
+
+.lecture {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+
+}
