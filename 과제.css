@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    padding: 20px;
+}
+
+.rogo{
+    width: 130px;
+}
+
+.test {
+    color: white;
+    width: 700px;
+    font-size: 25px;
+    margin: 30px;
+}
+
+.homepage {
+    display: grid;
+    grid-template-columns: 1fr 7fr 1fr;
+    padding: 20px 20px ;
+
+}
+
+.rogo2 {
+    width: 90px;
+}
+
+.test2 {
+    color: white;
+    width: 550px;
+    font-size: 30px;
+    margin: 48px;
+}
